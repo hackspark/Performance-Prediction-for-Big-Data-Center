@@ -1,1 +1,1 @@
-# A Performance Prediction Method for Big Data Center with Collaborative Filter Algorithm
+# A Performance Prediction Method for Big Data Center with Collaborative Filtering Algorithm
